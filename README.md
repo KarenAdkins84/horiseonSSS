@@ -14,8 +14,8 @@ SO THAT our own site is optimized for search engines
 
 ## Screenshots
 ![image](./assets/images/screenshot1.png)
-![image](.assets/images/screenshot2.png)
-![image](.assets/images/screenshot3.png)
+![image](./assets/images/screenshot3.png)
+![image](./assets/images/screenshot2.png)
 
 ## Deployed Application
 https://karenadkins84.github.io/horiseonSSS/
